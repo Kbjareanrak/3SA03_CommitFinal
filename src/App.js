@@ -8,7 +8,7 @@ class App extends Component {
     <div className="posText">
       <h2 style={{ color:'rgb(10, 51, 26)'}}>Wellcom to Game Card </h2>
       <WordCard value="hello"/>
-      <h3>Kanokwan Jareanrak 5935512090</h3>
+      <h3>Kanokwan Jareanrak 5935512090!!!</h3>
     </div>
     );
    }  
